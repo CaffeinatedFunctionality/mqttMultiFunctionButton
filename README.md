@@ -8,7 +8,7 @@ turn on the speakers when double clicked.
 2. Connect your button to Pin 2. On a nodeMCU this is D4
 
 ### Steps to connect the foot pedal
-If you are using the foot pedal I used https://www.amazon.com/gp/product/B00EF9D2DY/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+If you are using the foot pedal I used https://www.amazon.com/gp/product/B00EF9D2DY/
 1. Use a NodeMCU
 2. Connect D4 to NO
 3. Connect COM to Ground
@@ -17,3 +17,7 @@ If you are using the foot pedal I used https://www.amazon.com/gp/product/B00EF9D
 ## Current Functionality
 1. Single Click
 2. Double Click
+
+#### Thingiverse Link
+
+https://www.thingiverse.com/thing:4629131
